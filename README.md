@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @askmadonna
+- 👋 Hi, I’m @Vpavanichejerla
 - 👀 I’m interested in reading.
 - 🌱 I’m currently a student.
 - 💞️ I’m looking to collaborate on ...
