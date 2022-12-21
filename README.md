@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vpavanichejerla
-- 👀 I’m interested in reading.
+- 👋 Hi, I’m Pavani Chejerla
+- 👀 I’m interested in Python programming, Data Science
 - 🌱 I’m currently a student.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Linkedin - www.linkedin.com/pavanichejerla
 
 <!---
 askmadonna/askmadonna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
