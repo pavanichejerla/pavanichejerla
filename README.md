@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming, Data Science
 - 🌱 I’m currently a Computer science Engineering student.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Linkedin - www.linkedin.com/pavanichejerla/
+- 📫 How to reach me : Linkedin - https://www.linkedin.com/in/pavanichejerla/
 
 <!---
 askmadonna/askmadonna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
