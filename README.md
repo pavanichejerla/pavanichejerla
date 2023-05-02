@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavani chejerla</h1>
 <h3 align="center">A passionate Python Programmer, Aspiring Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanichejerla" alt="pavanichejerla" /></a> </p>
-
 - 🌱 I’m currently learning **mySQL, Git**
 
 - 👨‍💻 All of my projects are available at [https://chejerlapavani.wixsite.com/my-site](https://chejerlapavani.wixsite.com/my-site)
