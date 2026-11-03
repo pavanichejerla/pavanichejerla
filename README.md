@@ -5,8 +5,8 @@
 - 🛡️ Currently working as a **Junior Security Engineer (SOC Analyst)** at Wipro - Mindsprint
 - 🔎 I investigate and respond to phishing, malware, and identity-based threats using **Splunk, CrowdStrike Falcon, Cortex XSOAR, and Google SecOps**
 - 🧭 I map adversary behavior to **MITRE ATT&CK** and work incidents end-to-end — triage, escalation, containment, and documentation
-- 📜 Currently pursuing **CompTIA Security+**
-- 🌱 Exploring malware analysis and vulnerability management
+- 📜  **CompTIA Security+** certified
+- 🌱 Exploring AI and LLM security
 - 🎓 B.Tech in Computer Science (IoT specialization), SRM Institute of Science and Technology
 
 ## 🧰 Tools & Technologies
